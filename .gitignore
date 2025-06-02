@@ -1,0 +1,8 @@
+# I want to track: .kicad_pro, .kicad_sch, .kicad_pcb, .kicad_sym, .kicad_mod, .kicad_prl
+
+# I want to ignore:
+*.bak
+*.tmp
+*.save
+*.zip
+*.DS_Store
